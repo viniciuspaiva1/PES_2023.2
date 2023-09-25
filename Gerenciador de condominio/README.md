@@ -1,7 +1,7 @@
 # Requisitos de um Gerenciador de Condomínio
 ## Sumário dos requisitos funcionais de um `condômino`
 ### Portaria:
-* [Receber Encomendas](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-receber-encomendas)
+* [Receber Encomendas](### Fluxo comum de Receber Encomendas)
 * [Receber entregas (delivery)](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-receber-entregas)
 * [Cadastrar visitantes](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-cadastrar-visitante)
 * [Registro de ocorrências](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-registrar-ocorr%C3%AAncias)
