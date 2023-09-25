@@ -1,7 +1,7 @@
 # Requisitos de um Gerenciador de Condomínio
 ## Sumário dos requisitos funcionais de um `condômino`
 ### Portaria:
-* [Receber Encomendas](##Requisitos funcionais de um `condômino`)
+* [Receber Encomendas](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-receber-encomendas)
 * [Receber entregas (delivery)](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-receber-entregas)
 * [Cadastrar visitantes](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-cadastrar-visitante)
 * [Registro de ocorrências](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-registrar-ocorr%C3%AAncias)
@@ -9,11 +9,11 @@
 * [Reservar áreas comuns](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-reservar-%C3%A1reas-comuns)
 * [Visualizar cronograma de lavanderia](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-visualizar-cronograma-lavanderia)
 ### Administrativo
-* Visualizar mural de avisos
-* Pagar contas/multas
-* Registrar chamados (ex: defeito em elevador, lâmpadas queimadas)
-* Prestar contas
-* Fazer reclamações/sugestões
+* [Visualizar mural de avisos](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-visualizar-mural-de-avisos)
+* [Pagar contas/multas](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-pagar-contasmultas)
+* [Registrar chamados](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-registrar-chamados)
+* [Prestar contas](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-prestar-contas)
+* [Fazer reclamações/sugestões](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-fazer-reclama%C3%A7%C3%A3osugest%C3%B5es)
 ***
 ## Requisitos funcionais de um `condômino`
 
@@ -77,21 +77,21 @@
 ***
 ## Sumário dos requisitos funcionais de um `administrador`
 ### Agendamentos
-* Gerenciar espaços comuns 
+* [Gerenciar espaços comuns](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-gerenciar-espa%C3%A7os-comuns)
 ### Administrativo
-* Cadastrar novas notícias 
-* Aplicar multa
-* Atender chamados
-* Comentar sobre reclamações/sugestões
-* Cadastrar o condomínio como um todo
-* Cadastrar evento
-* Visualizar lista de insumos
-* Gerenciar chamados
+* [Cadastrar novas notícias](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-cadastrar-novas-not%C3%ADcias)
+* [Aplicar multa](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-aplicar-multas)
+* [Atender chamados](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-atender-chamados)
+* [Comentar sobre reclamações/sugestões](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-comentar-sobre-sugest%C3%B5esreclama%C3%A7%C3%B5es)
+* [Cadastrar o condomínio como um todo](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-cadastrar-condom%C3%ADnio)
+* [Cadastrar evento](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-cadastrar-calend%C3%A1rio)
+* [Visualizar lista de insumos](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-visualizar-lista-de-insumos)
+* [Gerenciar chamados](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-gerenciar-chamados)
 ### RH 
-* Adicionar/remover funcionários
-* Acessar/atender chamados dos funcionários
+* [Adicionar/remover funcionários](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-adicionarremover-funcion%C3%A1rios)
+* [Acessar/atender chamados dos funcionários](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-acessaratender-chamados-de-funcion%C3%A1rios)
 ### Finanças 
-* Cadastrar e visualizar as despesas
+* [Cadastrar e visualizar as despesas](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-cadastrar-e-visualizar-as-despesas)
 ***
 ## Requisitos funcionais de um `administrador`
 
@@ -176,13 +176,13 @@
 ***
 ## Sumário dos requisitos funcionais de um `funcionário`
 ### Portaria
-*  Acessar os painéis de encomendas e entregas
-*  Acessar o painel de visitantes
-*  Visualizar/Atender ocorrências
+*  [Acessar os painéis de encomendas e entregas](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-acessar-os-pain%C3%A9is-de-encomendas-e-entregas)
+*  [Acessar o painel de visitantes](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-acessar-o-painel-de-visitantes)
+*  [Visualizar/Atender ocorrências](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-visualizaratender-ocorr%C3%AAncias)
 ###  Administrativo
-*  Abrir chamados 
-*  Visualizar calendário
-*  Solicitar insumos/manutenção
+*  [Abrir chamados](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-abrir-chamados)
+*  [Visualizar calendário](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-visualizar-calend%C3%A1rio)
+*  [Solicitar insumos/manutenção](https://github.com/viniciuspaiva1/PES_2023.2/tree/main/Gerenciador%20de%20condominio#fluxo-comum-de-solicita%C3%A7%C3%A3o-de-insumosmanuten%C3%A7%C3%A3o)
 ***
 ## Requisitos funcionais de um `funcionário`
 
