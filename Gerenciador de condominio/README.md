@@ -212,4 +212,4 @@
 
 # Diagrama de caso de uso:
 
-    ![](https://github.com/viniciuspaiva1/PES_2023.2/blob/main/Gerenciador%20de%20condominio/diagrama_de_caso_de_uso.jpg)
+    ![Diagrama](https://github.com/viniciuspaiva1/PES_2023.2/blob/main/Gerenciador%20de%20condominio/diagrama_de_caso_de_uso.jpg)
