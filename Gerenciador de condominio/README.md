@@ -213,4 +213,4 @@
 
 # Diagrama de caso de uso:
 
-    ![Diagrama](/diagrama_de_caso_de_uso.jpg)
+![Diagrama](https://raw.githubusercontent.com/viniciuspaiva1/PES_2023.2/main/Gerenciador%20de%20condominio/diagrama_de_caso_de_uso.jpg)
