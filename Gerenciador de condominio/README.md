@@ -213,4 +213,4 @@
 
 # Diagrama de caso de uso:
 
-    ![Diagrama](diagrama_de_caso_de_uso.jpg)
+    ![Diagrama](/diagrama_de_caso_de_uso.jpg)
