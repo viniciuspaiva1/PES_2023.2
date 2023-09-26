@@ -209,3 +209,7 @@
     a.  Visualizar o itens que já foram solicitados (mês atual)
     b.  Visualizar o status da solicitação
     c.  Cadastrar nova solicitação
+
+# Diagrama de caso de uso:
+
+    ![](diagrama_de_caso_de_uso.jpg)
