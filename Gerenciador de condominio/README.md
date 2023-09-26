@@ -214,3 +214,17 @@
 # Diagrama de caso de uso:
 
 ![Diagrama](https://raw.githubusercontent.com/viniciuspaiva1/PES_2023.2/main/Gerenciador%20de%20condominio/diagrama_de_caso_de_uso.jpg)
+
+# Histórias de usuários:
+
+## Histórias de usuário de um condômino:
+- Como condômino, eu quero cadastrar um visitante.
+- Como condômino, eu quero reservar uma área comum .
+- Como condômino, eu quero fazer o pagamento da taxa mensal do condominio.
+## Histórias de usuário de um administrador:
+- Como administrador, eu quero cadastrar uma notícia.
+- Como administrador, eu quero adicionar um funcionário.
+- Como administrador, eu quero aplicar uma multa.
+## Histórias de usuário de um funcionário:
+- Como funcionário, eu gostaria de solicitar insumos para o trabalho.
+- Como funcionário, eu gostaria de abrir chamados para os administradores do condomínio.
