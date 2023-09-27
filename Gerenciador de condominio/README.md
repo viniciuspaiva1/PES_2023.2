@@ -1,4 +1,6 @@
 # Requisitos de um Gerenciador de Condomínio
+## [Link do vídeo](https://youtu.be/OjUwfHOwZG8)
+
 ## Sumário dos requisitos funcionais de um `condômino`
 
 ### Portaria:
