@@ -230,3 +230,35 @@
 ## Histórias de usuário de um funcionário:
 - Como funcionário, eu gostaria de solicitar insumos para o trabalho.
 - Como funcionário, eu gostaria de abrir chamados para os administradores do condomínio.
+
+
+# extra
+
+	erDiagram
+    CONDOMINO ||--o{ ENCOMENDAS: recebe
+    CONDOMINO ||--o{ PEDIDOS: recebe
+    CONDOMINO ||--o{ VISITANTES: cadastra
+    CONDOMINO ||--o{ OCORRENCIAS: registra
+
+    CONDOMINO ||--o{ AGENDAMENTOS: agenda
+
+    CONDOMINO ||--o{ CHAMADOS: registra
+    CONDOMINO ||--|{ BOLETOS: paga
+    CONDOMINO ||--o{ RECLAMACAO_SUGESTAO: realiza
+    
+    VISITANTES }o--|| FUNCIONARIO: liberado_por
+
+
+    PEDIDOS }o--|| FUNCIONARIO: liberado_por
+    ENCOMENDAS }o--|| FUNCIONARIO: liberado_por
+    FUNCIONARIO ||--o{ CHAMADOS: registra
+    FUNCIONARIO ||--o{ OCORRENCIAS: atende
+
+    FUNCIONARIO ||--o{ INSUMOS: solicita
+
+    ADMINISTRADOR ||--o{ NOTICIAS: cadastra
+    ADMINISTRADOR ||--o{ CONDOMINO: multa
+    ADMINISTRADOR }|--|| CONDOMINIO: cadastra
+
+    ADMINISTRADOR ||--o{ EVENTOS: cadastra
+    ADMINISTRADOR }|--|| FUNCIONARIO: adicionar_remover
